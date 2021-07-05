@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-commerce/static/css/main.a617e044.chunk.css",
+    "main.js": "/react-commerce/static/js/main.c0c56992.chunk.js",
+    "main.js.map": "/react-commerce/static/js/main.c0c56992.chunk.js.map",
+    "runtime-main.js": "/react-commerce/static/js/runtime-main.1c2cf79d.js",
+    "runtime-main.js.map": "/react-commerce/static/js/runtime-main.1c2cf79d.js.map",
+    "static/js/2.ebb7c636.chunk.js": "/react-commerce/static/js/2.ebb7c636.chunk.js",
+    "static/js/2.ebb7c636.chunk.js.map": "/react-commerce/static/js/2.ebb7c636.chunk.js.map",
+    "static/js/3.d2163b19.chunk.js": "/react-commerce/static/js/3.d2163b19.chunk.js",
+    "static/js/3.d2163b19.chunk.js.map": "/react-commerce/static/js/3.d2163b19.chunk.js.map",
+    "index.html": "/react-commerce/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/react-commerce/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.ebb7c636.chunk.js.LICENSE.txt": "/react-commerce/static/js/2.ebb7c636.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-commerce/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c2cf79d.js",
+    "static/js/2.ebb7c636.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.c0c56992.chunk.js"
+  ]
+}
